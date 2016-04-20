@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Lotus Cards
+//  Lotus-Cards
 //
 //  Created by Emma Roudabush on 4/20/16.
 //  Copyright © 2016 Emma Roudabush. All rights reserved.
